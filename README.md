@@ -1,6 +1,6 @@
 # 📊 Blinkit Data Dashboard
 
-
+<img src = 'Screenshot 2025-07-24 180024.png' />
 A data analytics dashboard built for Blinkit (India's Last Minute App) to visualize and analyze sales, outlet performance, and customer trends.
 
 ## 🚀 Project Overview
@@ -59,7 +59,7 @@ Fruits, Snacks, and Household items are the top-selling categories.
 
 Clone this repository:
 
-git clone https://github.com/your-username/blinkit-dashboard.git
+git clone [https://github.com/your-username/blinkit-dashboard.git](https://github.com/kartikkumar82/Blinkit_Dashboard_PowerBI)
 
 
 Open the Power BI / Tableau file from the dashboard/ folder.
